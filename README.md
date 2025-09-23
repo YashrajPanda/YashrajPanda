@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I am Yash 🖐️
 🔭 I’m currently working on AI Agents<br>👯 I’m looking to collaborate with Web Dev<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning NextJs<br>💬 Ask me about AI<br>⚡ Fun fact nothing
 
 
