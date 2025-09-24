@@ -1,5 +1,21 @@
-# Hello, I'm Yashraj Panda 🖐️
-🔭 I’m currently working on AI Agents<br>👯 I’m looking to collaborate with Web Dev<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning NextJs<br>💬 Ask me about AI<br>⚡ Fun fact nothing
+<p align="left">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/YashrajPanda/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Hello%20I'm%20Yashraj%20Panda&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&repeatCount=1" />
+  </a>
+</p>
+
+<p align="left">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/YashrajPanda/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Full-stack%20Web%20Developer;AI%20and%20ML%20Explorer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+<p align="right">
+  <!-- GIF Addition -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Animated GIF" width="400" height="300" />
+</p>
 
 
 ## 🌐 Socials:
